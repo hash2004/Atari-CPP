@@ -54,3 +54,6 @@ Manages game menu and level selections.
 The entry point of the game that integrates all modules.
 - **Files:**
   - `game.cpp`: Main game logic and setup.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)- see the LICENSE file for details.
